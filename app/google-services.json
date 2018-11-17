@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "894304841582",
+    "firebase_url": "https://mywallpaper-46805.firebaseio.com",
+    "project_id": "mywallpaper-46805",
+    "storage_bucket": "mywallpaper-46805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894304841582:android:3667f7a49a9703b3",
+        "android_client_info": {
+          "package_name": "com.qelontongstore.mywallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894304841582-n4gos6cr66rpilpr21daqp0lfgg2vtrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qelontongstore.mywallpaper",
+            "certificate_hash": "d02c3cfba5d3fff528577d5f8c4fe9e1338da6d8"
+          }
+        },
+        {
+          "client_id": "894304841582-rb972i5aacltnf6mca5p4gqm0lnu3bp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJNffoC3ZKKzFC8Z-_MF0T3_A1-EjHxH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894304841582-rb972i5aacltnf6mca5p4gqm0lnu3bp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
